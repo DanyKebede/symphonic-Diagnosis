@@ -1,0 +1,16 @@
+export 'IntroductionPage/introduction.dart';
+export 'homePage/home.dart';
+export 'symptomPage/symptom.dart';
+export 'symptomPage/addsymptom/searchsymptom.dart';
+export 'result/resultpage.dart';
+export 'auth/auth_page.dart';
+export './auth/login_page.dart';
+export './auth/signup_page.dart';
+export './auth/email_authentication.dart';
+export './auth/forget_password_page.dart';
+export './auth/forget_password_verification.dart';
+export './auth/toggle_login_signup.dart';
+export './auth/email_verify_page.dart';
+export './medicalPage/medicaldetail.dart';
+export './firstaidPage/firstaiddetail.dart';
+export './result/showdetail.dart';

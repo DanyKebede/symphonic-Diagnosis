@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "832632525898",
+    "project_id": "symphonicdiagnosis",
+    "storage_bucket": "symphonicdiagnosis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832632525898:android:1591688f3cbd9a26a5c2b3",
+        "android_client_info": {
+          "package_name": "com.example.symphonicdiagnosis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832632525898-lvhbla3bhtsecdu0vri7pu4uma3papai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.symphonicdiagnosis",
+            "certificate_hash": "fb9bb645ed6792e3064478e5fe3c4bf2a90764c7"
+          }
+        },
+        {
+          "client_id": "832632525898-m6plbuvja6fqi4adafjrt7nk0f29tck6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-rv5A0SoGIfDC1zoTxTDOAoWHz3k-dXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832632525898-m6plbuvja6fqi4adafjrt7nk0f29tck6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "832632525898-r61tgrppu8pu9s94j1573lvjn3rathn9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.symphonicdiagnosis"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

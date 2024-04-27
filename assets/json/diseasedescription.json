@@ -1,0 +1,166 @@
+[
+  {
+    "name": "Fungal infection",
+    "description": "Fungal infection refers to an infection caused by a fungus. It can affect various parts of the body, such as the skin, nails, and internal organs. Symptoms of a fungal infection depend on the affected area and may include itching, redness, rashes, and in severe cases, discharge or difficulty in breathing."
+  },
+  {
+    "name": "Allergy",
+    "description": "Allergy is a hypersensitive reaction of the immune system to substances that are normally harmless. Common allergens include pollen, dust mites, certain foods, and pet dander. Symptoms of allergies can vary but often involve sneezing, itching, watery eyes, and skin rashes."
+  },
+  {
+    "name": "GERD",
+    "description": "GERD stands for gastroesophageal reflux disease, which occurs when acid from the stomach flows back into the esophagus. This can lead to heartburn, chest pain, difficulty swallowing, and regurgitation. GERD is usually a chronic condition that requires long-term management."
+  },
+  {
+    "name": "Chronic cholestasis",
+    "description": "Chronic cholestasis is a condition characterized by the impaired flow of bile from the liver. It can lead to the accumulation of bile acids and bilirubin in the liver, causing symptoms such as jaundice, itching, and fatigue. Chronic cholestasis can be caused by various factors, including liver diseases, gallstones, and certain medications."
+  },
+  {
+    "name": "Drug Reaction",
+    "description": "A drug reaction refers to an adverse reaction or side effect caused by the use of a medication. It can manifest in various ways, including skin rashes, itching, swelling, gastrointestinal disturbances, and respiratory problems. The severity and specific symptoms of a drug reaction can vary depending on the individual and the medication involved."
+  },
+  {
+    "name": "Peptic ulcer disease",
+    "description": "Peptic ulcer disease refers to the formation of ulcers in the lining of the stomach, upper small intestine, or esophagus. It is often caused by the bacteria Helicobacter pylori or the prolonged use of nonsteroidal anti-inflammatory drugs (NSAIDs). Symptoms of peptic ulcers can include abdominal pain, bloating, heartburn, and nausea."
+  },
+  {
+    "name": "AIDS",
+    "description": "AIDS stands for acquired immunodeficiency syndrome, which is a chronic and potentially life-threatening condition caused by the human immunodeficiency virus (HIV). HIV attacks the immune system, making individuals more susceptible to infections and certain cancers. Symptoms of AIDS can include weight loss, recurrent infections, fatigue, and night sweats."
+  },
+  {
+    "name": "Diabetes",
+    "description": "Diabetes is a metabolic disorder characterized by high blood sugar levels over a prolonged period. It can be caused by insufficient insulin production or the body's inability to effectively use insulin. Common symptoms of diabetes include increased thirst, frequent urination, unexplained weight loss, and fatigue."
+  },
+  {
+    "name": "Gastroenteritis",
+    "description": "Gastroenteritis, also known as stomach flu, is an inflammation of the stomach and intestines. It is commonly caused by viral or bacterial infections, contaminated food or water, or parasites. Symptoms of gastroenteritis include diarrhea, vomiting, abdominal pain, nausea, and fever."
+  },
+  {
+    "name": "Bronchial Asthma",
+    "description": "Bronchial asthma is a chronic respiratory condition characterized by inflammation and narrowing of the airways, leading to breathing difficulties. It is often triggered by allergens, irritants, exercise, or respiratory infections. Common symptoms of asthma include wheezing, coughing, shortness of breath, and chest tightness."
+  },
+  {
+    "name": "Hypertension",
+    "description": "Hypertension, also known as high blood pressure, is a medical condition in which the blood pressure in the arteries is persistently elevated. It is often associated with lifestyle factors, such as unhealthy diet, lack of physical activity, and stress. Hypertension can increase the risk of heart disease, stroke, and other complications."
+  },
+  {
+    "name": "Migraine",
+    "description": "Migraine is a neurological condition characterized by recurring headaches, often accompanied by nausea, vomiting, and sensitivity to light and sound. Migraines can be triggered by various factors, including hormonal changes, certain foods, stress, and environmental stimuli. They can significantly impact daily life and may require specific management strategies."
+  },
+  {
+    "name": "Cervical spondylosis",
+    "description": "Cervical spondylosis is a degenerative condition that affects the cervical spine (neck region). It is primarily caused by age-related wear and tear of the spinal discs and joints. Symptoms of cervical spondylosis can include neck pain, stiffness, headaches, and tingling or weakness in the arms or hands."
+  },
+  {
+    "name": "Paralysis (brain hemorrhage)",
+    "description": "Paralysis resulting from a brain hemorrhage occurs when bleeding in the brain damages or destroys brain cells, leading to loss of muscle function in certain parts of the body. The severity and location of the brain hemorrhage determine the extent and type of paralysis. Rehabilitation and therapy are often required for recovery."
+  },
+  {
+    "name": "Jaundice",
+    "description": "Jaundice is a yellow discoloration of the skin, mucous membranes, and eyes caused by an excess of bilirubin in the blood. It can be a symptom of various underlying conditions, including liver disease, hepatitis, or blockage of the bile ducts. Additional symptoms of jaundice may include fatigue, abdominal pain, and dark urine."
+  },
+  {
+    "name": "Malaria",
+    "description": "Malaria is a mosquito-borne infectious disease caused by parasites of the Plasmodium genus. It is prevalent in tropical and subtropical regions. Symptoms of malaria typically include fever, chills, headache, muscle aches, and fatigue. In severe cases, it can lead to complications affecting vital organs and may be life-threatening."
+  },
+  {
+    "name": "Chicken pox",
+    "description": "Chickenpox, also known as varicella, is a highly contagious viral infection. It causes an itchy rash with blister-like lesions, fever, and general discomfort. Chickenpox is most common in children but can also affect adults. It usually resolves within a couple of weeks, but in rare cases, complications can arise."
+  },
+  {
+    "name": "Dengue",
+    "description": "Dengue is a mosquito-borne viral infection that causes flu-like symptoms, including high fever, severe headache, joint and muscle pain, and rash. In severe cases, it can lead to dengue hemorrhagic fever or dengue shock syndrome, which can be life-threatening. Dengue is prevalent in tropical and subtropical regions."
+  },
+  {
+    "name": "Typhoid",
+    "description": "Typhoid fever is a bacterial infection caused by Salmonella typhi. It is usually contracted by consuming contaminated food or water. Symptoms of typhoid include prolonged fever, abdominal pain, headache, and loss of appetite. Without treatment, it can lead to serious complications, but with appropriate antibiotics, most people recover fully."
+  },
+  {
+    "name": "Hepatitis A",
+    "description": "Hepatitis A is a viral infection that affects the liver. It is usually transmitted through contaminated food or water or close contact with an infected person. Symptoms of hepatitis A can include fatigue, nausea, abdominal pain, jaundice, and dark urine. Most people recover without complications, and vaccination is available for prevention."
+  },
+  {
+    "name": "Hepatitis B",
+    "description": "Hepatitis B is a viral infection that affects the liver. It is primarily transmitted through exposure to infected blood or bodily fluids, such as during unprotected sex or sharing needles. Symptoms of hepatitis B can range from mild to severe and may include jaundice, fatigue, abdominal pain, and liver inflammation. Chronic hepatitis B can lead to long-term liver damage."
+  },
+  {
+    "name": "Hepatitis C",
+    "description": "Hepatitis C is a viral infection that primarily affects the liver. It is commonly transmitted through exposure to infected blood, such as sharing needles or receiving contaminated blood transfusions. Most people with hepatitis C have no symptoms initially, but over time, it can cause liver damage and lead to serious complications, including liver cirrhosis and cancer."
+  },
+  {
+    "name": "Hepatitis D",
+    "description": "Hepatitis D, also known as delta hepatitis, is a viral infection that occurs only in individuals who are already infected with hepatitis B. It is transmitted through exposure to infected blood or other body fluids. Hepatitis D can cause more severe liver damage than hepatitis B alone and can increase the risk of liver failure and other complications."
+  },
+  {
+    "name": "Hepatitis E",
+    "description": "Hepatitis E is a viral infection that primarily spreads through the consumption of contaminated water or food. It is prevalent in areas with poor sanitation. Symptoms of hepatitis E are similar to other types of hepatitis and can include jaundice, fatigue, loss of appetite, and abdominal pain. Most cases of hepatitis E resolve on their own, but pregnant women and people with weakened immune systems are at higher risk of complications."
+  },
+  {
+    "name": "Alcoholic hepatitis",
+    "description": "Alcoholic hepatitis is inflammation of the liver caused by excessive alcohol consumption. It is a condition that can range from mild to severe and may lead to liver cirrhosis or liver failure if not addressed. Symptoms of alcoholic hepatitis can include jaundice, abdominal pain, fever, and weight loss."
+  },
+  {
+    "name": "Tuberculosis",
+    "description": "Tuberculosis (TB) is a bacterial infection that primarily affects the lungs but can also involve other parts of the body. It is transmitted through respiratory droplets from infected individuals. Symptoms of TB may include coughing, chest pain, fatigue, weight loss, and night sweats. With proper treatment, TB can usually be cured."
+  },
+  {
+    "name": "Common Cold",
+    "description": "The common cold is a viral infection of the upper respiratory tract. It is usually caused by different strains of the rhinovirus. Symptoms of the common cold include sneezing, sore throat, runny or congested nose, and coughing. Although it can be bothersome, the common cold typically resolves on its own within a week or two."
+  },
+  {
+    "name": "Pneumonia",
+    "description": "Pneumonia is an infection that inflames the air sacs in one or both lungs. It can be caused by bacteria, viruses, or fungi. Symptoms of pneumonia can include cough with phlegm, fever, chest pain, and difficulty breathing. Pneumonia can range from mild to severe and may require medical intervention, especially in vulnerable populations."
+  },
+  {
+    "name": "Dimorphic hemorrhoids (piles)",
+    "description": "Dimorphic hemorrhoids, commonly known as piles, are swollen veins in the rectum or anus. They can be internal or external and may cause pain, itching, and bleeding during bowel movements. Piles can be triggered by various factors, including chronic constipation, prolonged sitting, and straining during bowel movements."
+  },
+  {
+    "name": "Heart attack",
+    "description": "A heart attack, also known as myocardial infarction, occurs when the blood flow to the heart muscle is blocked, usually by a blood clot. This can lead to damage or death of the heart tissue. Symptoms of a heart attack can include chest pain, shortness of breath, nausea, and lightheadedness. Immediate medical attention is crucial during a heart attack."
+  },
+  {
+    "name": "Varicose veins",
+    "description": "Varicose veins are swollen and twisted veins, usually in the legs, that are caused by weak or damaged vein walls and valves. They can cause pain, heaviness, and swelling in the legs, as well as visible bulging veins. Varicose veins are often a cosmetic concern but can also lead to complications like ulcers or blood clots."
+  },
+  {
+    "name": "Hypothyroidism",
+    "description": "Hypothyroidism is a condition in which the thyroid gland does not produce enough thyroid hormones. This can lead to a slowing down of bodily functions and a range of symptoms, including fatigue, weight gain, cold intolerance, and depression. Hypothyroidism is usually a lifelong condition that requires hormone replacement therapy."
+  },
+  {
+    "name": "Hyperthyroidism",
+    "description": "Hyperthyroidism is a condition in which the thyroid gland produces an excess of thyroid hormones. It can cause an increased metabolic rate and a variety of symptoms, including weight loss, rapid heartbeat, irritability, and heat intolerance. Hyperthyroidism can be treated with medications, radioactive iodine, or surgery."
+  },
+  {
+    "name": "Hypoglycemia",
+    "description": "Hypoglycemia, also known as low blood sugar, occurs when the glucose levels in the blood drop below normal. It is often associated with diabetes but can also happen in individuals without diabetes. Symptoms of hypoglycemia can include shakiness, dizziness, confusion, sweating, and weakness. Prompt treatment with glucose or carbohydrates is necessary to raise blood sugar levels."
+  },
+  {
+    "name": "Osteoarthritis",
+    "description": "Osteoarthritis is a degenerative joint disease characterized by the breakdown of cartilage in the joints. It commonly affects weight-bearing joints such as the knees, hips, and spine. Symptoms of osteoarthritis include joint pain, stiffness, swelling, and reduced range of motion. Management typically involves pain relief, physical therapy, and lifestyle modifications."
+  },
+  {
+    "name": "Arthritis",
+    "description": "Arthritis is a general term for inflammation of the joints. There are many different types of arthritis, including rheumatoid arthritis, osteoarthritis, and gout. Symptoms can vary but often involve joint pain, stiffness, swelling, and decreased mobility. Treatment options depend on the specific type of arthritis and may include medications, physical therapy, and lifestyle changes."
+  },
+  {
+    "name": "(Vertigo) Paroxysmal Positional Vertigo",
+    "description": "Paroxysmal positional vertigo (BPPV) is a common inner ear disorder that causes brief episodes of dizziness or spinning sensations triggered by specific head movements. It occurs when calcium crystals in the inner ear become dislodged and affect the balance organs. Symptoms of BPPV include vertigo, nausea, and unsteadiness. Treatment can involve repositioning exercises and medications."
+  },
+  {
+    "name": "Acne",
+    "description": "Acne is a skin condition characterized by the presence of pimples, blackheads, whiteheads, and inflamed lesions on the face, chest, back, or other parts of the body. It occurs when hair follicles become clogged with oil and dead skin cells. Acne can be influenced by hormonal changes, genetics, and certain medications. Treatment options include topical creams, oral medications, and lifestyle modifications."
+  },
+  {
+    "name": "Urinary tract infection",
+    "description": "A urinary tract infection (UTI) is an infection that occurs in any part of the urinary system, including the kidneys, bladder, ureters, or urethra. It is usually caused by bacteria entering the urethra and multiplying in the urinary tract. Symptoms of a UTI may include a strong, persistent urge to urinate, a burning sensation during urination, cloudy or bloody urine, and lower abdominal pain. UTIs are typically treated with antibiotics."
+  },
+  {
+    "name": "Psoriasis",
+    "description": "Psoriasis is a chronic autoimmune skin condition that causes the rapid buildup of skin cells, resulting in thick, silvery scales and red patches that are often itchy and painful. It can occur on any part of the body but commonly affects the scalp, elbows, knees, and lower back. Psoriasis is not contagious and can be managed with various treatments, including topical creams, light therapy, and systemic medications."
+  },
+  {
+    "name": "Impetigo",
+    "description": "Impetigo is a highly contagious bacterial skin infection that primarily affects children. It is characterized by red sores that rupture and develop honey-colored crusts. Impetigo is usually caused by Staphylococcus aureus or Streptococcus pyogenes bacteria. Good hygiene practices and antibiotics are often used to treat impetigo and prevent its spread."
+  }
+]
